@@ -1,0 +1,19 @@
+{
+  "name": "stupidtail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env.local index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vustur",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.0",
+    "@zuzak/owo": "^1.18.0",
+    "gj-boomlings-api": "^2.0.1",
+    "new-gd.js": "^0.2.14"
+  },
+  "type": "module"
+}
