@@ -1,5 +1,5 @@
 {
-  "name": "stupidtail",
+  "name": "gdnerd-js",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,6 @@
   "description": "",
   "dependencies": {
     "@huggingface/inference": "^2.8.0",
-    "@zuzak/owo": "^1.18.0",
     "gj-boomlings-api": "^2.0.1",
     "new-gd.js": "^0.2.14"
   },
